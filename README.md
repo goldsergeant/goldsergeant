@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 <p align="center">
     <Strong>💪Problem Solving💪 </Strong><br>
 </p>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rmagksfla000)](https://solved.ac/rmagksfla000/) <br/>
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/goldsergeant)](https://leetcode.com/goldsergeant) <br/>
 
 </div>
