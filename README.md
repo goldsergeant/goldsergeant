@@ -14,20 +14,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<a href="https://solved.ac/rmagksfla000/">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rmagksfla000"> 
-</a>
-<br>
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldsergeant">
-
-
-</div>
-
-
-
-<div align="center">
   
 <a href="https://solved.ac/rmagksfla000/">
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rmagksfla000"> 
