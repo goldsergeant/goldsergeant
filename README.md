@@ -19,18 +19,17 @@ Here are some ideas to get you started:
 </div>
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=goldsergeant&show_icons=true&theme=radical"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=goldsergeant&show_icons=true&theme=radical"> 
 
 <a href="https://solved.ac/rmagksfla000/">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rmagksfla000"> 
 </a>
-
+<br>
 </div>
 
 <div align="center">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldsergeant">
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=goldsergeant">
 
 <a href="https://leetcode.com/goldsergeant">
 <img src="https://leetcard.jacoblin.cool/goldsergeant" ></a>
